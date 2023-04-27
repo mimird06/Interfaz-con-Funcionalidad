@@ -1,2 +1,2 @@
-# Tarea-II-Thammy-Vargas-
-interfaz grafica conectada con base de datos
+# Interfaz-con-Funcionalidad
+interfaz grafica web conectada con base de datos
